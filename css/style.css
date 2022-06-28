@@ -412,10 +412,7 @@ label {
 }
 
 /* 2. Header */
-.navbar-brand{
-	color: #BB217C;
-	font-size: 55px;
-}
+
 .main-header {
 	padding: 15px 0;
 	border-bottom: 1px solid #2acb352b;
